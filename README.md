@@ -9,7 +9,8 @@ https://petrychenk0.github.io/Gym-landing/
 ## 🚀 Features
 
 *   **Fully Responsive:** Perfect display on mobile, tablet, and desktop screens.
-*   **Clean Codebase:** Semantic HTML5 markup.
+*   **Clean Codebase:** Semantic HTML5 markup and clean structure.
+*   **Basic SEO:** Title, Meta Description, Heading hierarchy, Image Alt text.
 *   **Lightweight & Fast:** Optimized assets and simple, clean design.
 
 ## 🛠️ Tech Stack
