@@ -4,7 +4,7 @@ A beautiful, responsive landing page built to demonstrate modern web development
 
 ## 👁️ Preview
 
-[Insert your live link here, e.g., **[Live Demo](https://github.io)**]
+https://petrychenk0.github.io/Gym-landing/
 
 ## 🚀 Features
 
